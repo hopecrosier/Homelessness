@@ -3,4 +3,4 @@ The purpose of this project is to determine if homelessness can be predicted by 
 
 ## Data
 Our data comes from The U.S. Department of Housing and Urban Development (HUD) and their report "Market Predictors of Homelessness" which can be found here: https://www.huduser.gov/portal/sites/default/files/pdf/Market-Predictors-of-Homelessness.pdf
-It contains data regarding the number of homeless people, along with geographic, demographic and economic factors. 
+It contains data regarding the number of homeless people, along with geographic, demographic and economic factors, which can be found in the files under the Data folder
