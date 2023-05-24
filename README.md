@@ -1,4 +1,6 @@
-# Homelessness - Introduction
+# Homelessness - Overview
+
+## Introduction
 The purpose of this project is to determine if homelessness can be predicted by local housing market factors. We will focus on market predictors of homelessness and Continuums of Care (CoC) to help get a sense of observations regarding both homelessness and market state in different categories.
 
 ## Requirements
