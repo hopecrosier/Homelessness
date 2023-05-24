@@ -18,7 +18,7 @@ We wanted to prepare our data for future analysis by inspecting the columns/vari
 To analyze the data for this project, we took the approach of linear regression. We wanted to find a model that would enable us to somewhat accurately predict the homelessness rate of a CoC based on predictors, and see what predictors have more significance than others. We also used lasso, ridge regression, XGBoost and cross validation methods to further analyze our models and predictions. 
 
 ## Author
-Hope Crosier is the author of this repository. She is a undergraduate computer science student at Seattle University, and her linked in here: https://www.linkedin.com/in/hope-crosier/
+Hope Crosier is the author of this repository. She is a undergraduate computer science student at Seattle University, and her linked is here: https://www.linkedin.com/in/hope-crosier/
 
 ## License
 This repository and all corresponding code components are liscenced under the MIT License
